@@ -16,7 +16,7 @@
 [3,2,1] ++ [4, 2, 1] = [3,2,1,4,2,1]
 1 : [2,3] = [1,2,3]
 ```
-* putStrLn is Haskells print function
+* `putStrLn` is Haskells print function
 * characters are denoted in single quotes and strings are in double quotes
 
 # Types
