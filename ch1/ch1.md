@@ -1,4 +1,4 @@
-#Simple Arithmetics
+# Simple Arithmetics
 * We use :module in the ghci to import a module... eg. :module + Data.Ratio
 * (-) is Haskell's only unary operator and must be wrapped in parenthesis to avoid parsing ambiguity
 * not equals to is represented by /=
@@ -12,8 +12,10 @@
 * enumeration notation: [1..10]
 * be careful when using lists with floating points.... there may be errors.
 * two common operators ++ (concat) and : (cons) which adds an element to the front of the list
+  ``` haskell
 * eg [3,2,1] ++ [4, 2, 1] = [3,2,1,4,2,1]
 * 1 : [2,3] = [1,2,3]
+  ```
 * putStrLn is Haskells print function
 * characters are denoted in single quotes and strings are in double quotes
 
